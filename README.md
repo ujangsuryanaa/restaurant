@@ -20,3 +20,7 @@ then change the status from customer to admin so you can add products
 
 
 Next, if you want to register again, don't change the status
+
+landing restaurant app
+![WhatsApp Image 2022-11-02 at 12 35 09](https://user-images.githubusercontent.com/97712688/199409209-d3b49085-4244-4ece-9fcc-826c2ffd33bc.jpeg)
+
